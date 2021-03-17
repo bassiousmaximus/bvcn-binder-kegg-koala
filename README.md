@@ -7,23 +7,5 @@ Initially forked from [here](https://github.com/binder-examples/conda). Thank yo
 Part of the [Bioinformatics Virtual Coordination Network](https://biovcnet.github.io/) :)
 
 
-## Walkthrough
-
-Command description
-
-    command
-
-Command description
-
-    command
-
-Command description
-
-    command
-
-Command description
-
-    command
-
 
 
